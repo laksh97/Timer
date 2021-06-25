@@ -33,14 +33,3 @@ setTimeout(function () {
     h1.innerText = "10"
 }, 1000);
 document.body.appendChild(h1)
-// var downloadTimer = setTimeout(function(){
-// var countdown = 10;
-//     while(countdown >  0) {
-//         h1.innerText =  countdown + " seconds";
-//         document.body.appendChild(h1)
-//         countdown--;
-//     }
-//     h1.innerText = "Happy Birthday!"
-//     document.body.appendChild(h1)
-
-// }, 1000);
